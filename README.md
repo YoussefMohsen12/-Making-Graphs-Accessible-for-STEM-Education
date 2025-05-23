@@ -60,10 +60,9 @@ Directory Structure
 ├── models/                  # Saved models and weights
 ├── scripts/                 # Training scripts for RF, SVM, CNN, ResNet50
 ├── data/                    # Preprocessed datasets and sample inputs
-├── reports/                 # Evaluation metrics and confusion matrices
-├── webapp/                  # Web integration module (future)
+├── reports/                 # Evaluation metrics and confusion matrices         
 └── README.md
-```
+
 
 ---
 
